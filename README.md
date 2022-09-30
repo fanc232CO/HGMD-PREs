@@ -5,7 +5,7 @@ Every file contains four columns separated by tab.
 
 The first three columns (chromosome, start, end) indicates the position of the repeat in human hg19 reference genome.  
 
-The forth column contains attached information of the repeat, separated by "@".  
+The forth column contains attached information of the repeat, separated by "@", including:  
 
 The first is the chromosome position of the repeat.  
 
